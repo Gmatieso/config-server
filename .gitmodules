@@ -1,0 +1,18 @@
+[submodule "service-registry"]
+	path = service-registry
+	url = git@github.com:Gmatieso/service-registry.git
+[submodule "cloud-gateway"]
+	path = cloud-gateway
+	url = git@github.com:Gmatieso/cloud-gateway.git
+[submodule "hystrix-dashboard"]
+	path = hystrix-dashboard
+	url = git@github.com:Gmatieso/hystrix-dashboard.git
+[submodule "department-service"]
+	path = department-service
+	url = git@github.com:Gmatieso/department-service.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:Gmatieso/user-service.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:Gmatieso/config-server.git
