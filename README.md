@@ -1,1 +1,2 @@
 This configuration server will be, responsible for managing and providing configuration settings to various services and applications within a system. Its primary purpose is to centralize configuration data, making it easier to maintain, update, and ensure consistency across the entire system.
+![WhatsApp Image 2023-12-06 at 10 40 19 PM](https://github.com/Gmatieso/config-server/assets/55885416/e0288449-91c4-4d45-9694-7f05ffb275f1)
